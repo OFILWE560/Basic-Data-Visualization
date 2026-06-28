@@ -54,8 +54,8 @@ The dataset is the classic Boston housing dataset (506 rows, 14 features), alrea
 
 - `MEDV` - median home value ($1000s)
 - `RM` - average number of rooms
-- `CHAS` — whether the property borders the Charles River (1) or not (0)
-- `AGE` — % of owner-occupied units built before 1940
+- `CHAS` - whether the property borders the Charles River (1) or not (0)
+- `AGE` - % of owner-occupied units built before 1940
 
 ## Author
 
