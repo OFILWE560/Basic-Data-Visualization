@@ -1,6 +1,6 @@
 # Basic Data Visualization - Boston Housing Dataset
 
-> Repository: `OFILWE560/Basic-Data-Visualization` *(rename this if your actual repo name differs)*
+> Repository: `OFILWE560/Basic-Data-Visualization`
 
 ## Description
 
